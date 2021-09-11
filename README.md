@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently a third-year Master student at Peking University.
+- 🌱 I’m currently a third-year Master student at Peking University. Before that, I received my Bachelor’s degree at Peking University in July 2019.
 - 🔭 I’m currently working on Scene Understanding tasks, especially Semantic Segmentation and Object Detection.
 - ⚡ My personal website: https://charlesCXK.github.io
 - 📫 How to reach me: pkucxk@pku.edu.cn
