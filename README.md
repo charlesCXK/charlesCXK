@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently a Ph.D. student at Peking University. Before that, I received my Bachelor’s degree at Peking University in July 2019.
-- 🔭 I’m currently working on Self-supervised Learning and Scene Understanding tasks, especially Semantic Segmentation and Object Detection.
+- 🌱 I’m currently a researcher at **DeepSeek AI**. Before that, I received my Ph.D. and Bachelor’s degree at **Peking University** in 2024 and 2019.
+- 🔭 I’m currently working on **Multimodal Large Language Models (MLLM)**. Previous interests are in Self-supervised Learning and Scene Understanding tasks, such as Semantic Segmentation and Object Detection.
 - ⚡ My personal website: https://charlesCXK.github.io
 - 📫 How to reach me: pkucxk@pku.edu.cn
 
